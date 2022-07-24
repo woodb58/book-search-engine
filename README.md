@@ -22,4 +22,4 @@ Google Books API search engine built with a RESTful API, refactored to be a Grap
 
 ### Layout:
 
-![Layout](./assets/erm.jpg)
+![Layout](./assets/screenshot.png)
